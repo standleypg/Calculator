@@ -1,0 +1,4 @@
+Calculator/.vscode/*
+Calculator/bin/*
+Calculator/obj/*
+*.sln
